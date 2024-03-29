@@ -1,0 +1,28 @@
+.triggerevents{
+    width:290px;
+    height:90px;
+    margin:auto;
+    display:flex;
+    justify-content:space-around;
+    align-items:center;
+}
+h4,h1{
+ text-align:center;
+}
+
+.choosetrigger{
+    width:300px;
+    height:200px;
+    margin:auto;
+}
+#regbutton{
+    margin-left:60px;
+    margin-top:10px;
+}
+
+.inputform{
+    width:400px;
+    height:180px;
+    margin:auto;
+    margin-top:30px;
+}
